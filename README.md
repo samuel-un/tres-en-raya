@@ -11,7 +11,6 @@
 -   [Owner](#owner)
 -   [Features](#features)
 -   [Technologies](#technologies)
--   [Next Steps](#next-steps)
 -   [License](#license)
 
 ---

@@ -1,0 +1,36 @@
+.board {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 15px;
+	width: 360px;
+	margin: 0 auto;
+	justify-items: center;
+	align-items: center;
+}
+
+.board button {
+	width: 120px;
+	height: 120px;
+	font-size: 48px;
+	font-weight: bold;
+	color: #0056b3;
+	background-color: #fafafa;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.board button:hover {
+	background-color: #e3e3e3;
+}
+
+.board button:active {
+	transform: scale(0.5);
+}
+
+.board button:disabled {
+	color: #bbb;
+	background-color: #f0f0f0;
+	cursor: not-allowed;
+}

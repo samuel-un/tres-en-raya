@@ -11,8 +11,11 @@
 -   [Owner](#owner)
 -   [Features](#features)
 -   [Technologies](#technologies)
+<<<<<<< HEAD
 -   [How to Download and Use](#how-to-download-and-use)
 
+=======
+>>>>>>> 1650b83af44fb24b15e0ad6d2394db7391461c7e
 -   [License](#license)
 
 ---

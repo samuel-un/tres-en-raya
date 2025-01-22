@@ -11,7 +11,8 @@
 -   [Owner](#owner)
 -   [Features](#features)
 -   [Technologies](#technologies)
--   [Next Steps](#next-steps)
+-   [How to Download and Use](#how-to-download-and-use)
+
 -   [License](#license)
 
 ---
@@ -37,6 +38,52 @@
 -   **Frontend**: HTML5, CSS3, JavaScript.
 -   **Libraries**: React.
 -   **Version Control**: Git and GitHub.
+
+---
+
+## How to Download and Use
+
+**Clone the Repository**
+Open your terminal and run the following command:
+
+```bash
+git clone https://github.com/samuel-un/tres-en-raya
+```
+
+Replace `tres-en-raya` with the actual repository name if different.
+
+**Navigate to the Project Folder**
+Go to the project directory:
+
+```bash
+cd tres-en-raya
+```
+
+**Install Dependencies**
+Ensure you have Node.js installed on your system. Then, install the required packages:
+
+```bash
+npm install
+```
+
+**Run the Application**
+Start the development server to launch the game:
+
+```bash
+npm start
+```
+```bash
+npm run dev
+```
+
+**Open in Browser**
+The game will open automatically in your default browser. If not, navigate to [http://localhost:3000](http://localhost:3000).
+
+**Play the Game**
+- Player 1 uses **"X"** and Player 2 uses **"O"**.
+- Click on a square to make a move.
+- Try to align three symbols to win!
+- Use the reset button to start a new game.
 
 ---
 
